@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e45e43fcc54ac54d977803f2fd77753, type: 3}
+  m_Name: PurpleFlower
+  m_EditorClassIdentifier: 
+  objects:
+  - Object: {fileID: 6111332469068306072, guid: 887952e98468c3f47a162b903f68540f,
+      type: 3}
+    key: FlowerPurpleNight
+    PositionOffset: {x: 0, y: 0, z: 0}
+    needRotationOffset: 0
+    RotationOffset: {x: 0, y: 0, z: 0}
+  - Object: {fileID: 2644091554621048114, guid: 35ad1231cc002af4aaae4ac68c65c595,
+      type: 3}
+    key: FlowerPurpleDay
+    PositionOffset: {x: 0, y: 0, z: 0}
+    needRotationOffset: 0
+    RotationOffset: {x: 0, y: 0, z: 0}

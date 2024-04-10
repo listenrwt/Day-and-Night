@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5025298008986048982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5025298008986048980}
+  - component: {fileID: 5025298008986048983}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5025298008986048980
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5025298008986048982}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.0149771, y: 0.04082301, z: -341.2902}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5025298008986048983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5025298008986048982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7707f26a3e9e63a4f9649bec919afb1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioMixerGroup: {fileID: 24300002, guid: 4b6d7a8689415b34e8136054d3eebc04, type: 2}
+  sounds:
+  - soundName: TimeStop
+    clip: {fileID: 8300000, guid: f8f91543da322f845a15a9dcfd9ca50d, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - soundName: DaySound
+    clip: {fileID: 8300000, guid: 39a3844fa812a114099ad8c6385b31a1, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - soundName: NightSound
+    clip: {fileID: 8300000, guid: bdf34625067d2974dab36398f76cddb8, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - soundName: BGM
+    clip: {fileID: 8300000, guid: 39a3844fa812a114099ad8c6385b31a1, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - soundName: teleport
+    clip: {fileID: 8300000, guid: 86088dc99d2fa1246a5b282b32d3572e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - soundName: jump
+    clip: {fileID: 8300000, guid: 9e4b6b964afd1b24d88cf2a4271de7a0, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - soundName: bounce
+    clip: {fileID: 8300000, guid: 392ab9971a52c9247b60a49392fe44aa, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - soundName: bruh
+    clip: {fileID: 8300000, guid: e562adff7435b15439970a2de3116bf6, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - soundName: landing
+    clip: {fileID: 8300000, guid: 9e4b6b964afd1b24d88cf2a4271de7a0, type: 3}
+    volume: 0.6
+    pitch: 0.9
+    loop: 0
+    source: {fileID: 0}
+  - soundName: pick
+    clip: {fileID: 8300000, guid: baf3ad2e55c7bc947b5f4028f88e2a61, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - soundName: bite
+    clip: {fileID: 8300000, guid: 365f637cc518d614aa1a57ab8f2a1c26, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - soundName: break
+    clip: {fileID: 8300000, guid: 2f60b6593f2a01e459d1fe463a0b62ee, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}

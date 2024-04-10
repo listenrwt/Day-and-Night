@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e45e43fcc54ac54d977803f2fd77753, type: 3}
+  m_Name: BreakableStone
+  m_EditorClassIdentifier: 
+  objects:
+  - Object: {fileID: 9207240584592752967, guid: d2ab8b291575d594b8f42d98cae83b08,
+      type: 3}
+    key: breakablestone(0)
+    PositionOffset: {x: 0, y: 0, z: 0}
+    needRotationOffset: 0
+    RotationOffset: {x: 0, y: 0, z: 0}
+  - Object: {fileID: 6764067823667374022, guid: 79caae0d2e78be24f917223f3823df52,
+      type: 3}
+    key: breakablestone(1)
+    PositionOffset: {x: 0, y: 0, z: 0}
+    needRotationOffset: 0
+    RotationOffset: {x: 0, y: 0, z: 0}
+  - Object: {fileID: 5575026005149486856, guid: 63525a2a6dfb9594a826489a45d06881,
+      type: 3}
+    key: breakablestone(2)
+    PositionOffset: {x: 0, y: 0, z: 0}
+    needRotationOffset: 0
+    RotationOffset: {x: 0, y: 0, z: 0}

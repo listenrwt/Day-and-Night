@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e45e43fcc54ac54d977803f2fd77753, type: 3}
+  m_Name: RedFlower
+  m_EditorClassIdentifier: 
+  objects:
+  - Object: {fileID: 4020782049394363822, guid: 2bb207b5af5c9b94aa002cccd48fafd6,
+      type: 3}
+    key: FlowerRedNight
+    PositionOffset: {x: 0, y: 0, z: 0}
+    needRotationOffset: 0
+    RotationOffset: {x: 0, y: 0, z: 0}
+  - Object: {fileID: 6952012677341562683, guid: 8d795be39d1ea6e4588474ed18fd274d,
+      type: 3}
+    key: FlowerRedDay
+    PositionOffset: {x: 0, y: 0, z: 0}
+    needRotationOffset: 0
+    RotationOffset: {x: 0, y: 0, z: 0}

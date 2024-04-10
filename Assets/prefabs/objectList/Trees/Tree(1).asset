@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e45e43fcc54ac54d977803f2fd77753, type: 3}
+  m_Name: Tree(1)
+  m_EditorClassIdentifier: 
+  objects:
+  - Object: {fileID: 2325280075985308428, guid: d8ce43328e81e1a4e8552d9da2db9ac5,
+      type: 3}
+    key: seed(1)
+    PositionOffset: {x: 0, y: 0, z: 0}
+    needRotationOffset: 0
+    RotationOffset: {x: 0, y: 0, z: 0}
+  - Object: {fileID: 5991359367679736770, guid: 70af741fa5894bd4c84dc67d64b14d04,
+      type: 3}
+    key: sapling(1)
+    PositionOffset: {x: 0, y: 0, z: 0}
+    needRotationOffset: 0
+    RotationOffset: {x: 0, y: 0, z: 0}
+  - Object: {fileID: 6478535215733931581, guid: 815fcaa1db98bfe4fa9c570201804192,
+      type: 3}
+    key: Tree(1)
+    PositionOffset: {x: 0, y: 0.4, z: 0}
+    needRotationOffset: 0
+    RotationOffset: {x: 0, y: 0, z: 0}
