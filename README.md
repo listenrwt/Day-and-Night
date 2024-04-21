@@ -43,4 +43,4 @@ Day and Night is a puzzle-platformer game that challenges players with its uniqu
 
 ## Feedback
 
-After playing the game, we would appreciate it if you could provide your feedback through the questionnaire available on the itch.io page. Your feedback will help us improve the game and provide a better gaming experience for all players.
+After playing the game, we would appreciate it if you could provide your feedback through the questionnaire available on the itch.io page. Your feedback will help me improve the game and provide a better gaming experience for all players.
