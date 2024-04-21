@@ -2,7 +2,7 @@
 
 Welcome to Day and Night, a puzzle-platformer game where you must manipulate time to navigate through different environments and reach the gate. The game offers an engaging gameplay experience with its unique mechanic of swapping between day and night.
 
-![image](https://github.com/listenrwt/Day-and-Night/assets/123095693/074df8cf-377a-452c-9d2a-f177acf954f1)
+![image](https://github.com/listenrwt/Day-and-Night/assets/123095693/4e5f021d-a80f-4254-b3b2-603c9a1b5130)
 
 
 ## Gameplay Controls
@@ -33,6 +33,8 @@ To install the game, follow these steps:
 ## Genre
 
 Day and Night is a puzzle-platformer game that challenges players with its unique time-swapping mechanic.
+
+![image](https://github.com/listenrwt/Day-and-Night/assets/123095693/074df8cf-377a-452c-9d2a-f177acf954f1)
 
 ## Tags
 
